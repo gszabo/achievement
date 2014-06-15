@@ -1,0 +1,7 @@
+parameters:
+#    achie_backend.example.class: Achie\BackendBundle\Example
+
+services:
+#    achie_backend.example:
+#        class: %achie_backend.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

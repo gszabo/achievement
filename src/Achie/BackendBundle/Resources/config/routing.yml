@@ -1,0 +1,3 @@
+achie_backend_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: AchieBackendBundle:Default:index }

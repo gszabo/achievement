@@ -1,0 +1,8 @@
+achie_backend:
+    resource: "@AchieBackendBundle/Resources/config/routing.yml"
+    prefix:   /admin/
+
+achie_frontend:
+    resource: "@AchieFrontendBundle/Resources/config/routing.yml"
+    prefix:   /
+
