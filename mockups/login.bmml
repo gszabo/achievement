@@ -7,10 +7,10 @@
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="919" y="326" w="150" h="-1" measuredW="49" measuredH="30" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="919" y="326" w="150" h="-1" measuredW="77" measuredH="30" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
-        <text>Teve</text>
+        <text>TeveLee</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="918" y="366" w="150" h="-1" measuredW="156" measuredH="30" zOrder="2" locked="false" isInGroup="-1">

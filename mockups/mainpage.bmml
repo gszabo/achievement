@@ -8,13 +8,13 @@
       </controlProperties>
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1900" y="73" w="-1" h="977" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1123" y="100" w="-1" h="-1" measuredW="283" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1195" y="100" w="-1" h="-1" measuredW="283" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Add%20New%20Achievement%2C%20Vote%20page</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::SearchBox" x="1449" y="101" w="-1" h="-1" measuredW="171" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::SearchBox" x="1493" y="101" w="-1" h="-1" measuredW="171" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>search%20achievement</text>
@@ -27,10 +27,10 @@
         <text>Achievements%2C%20Calendar%2C%20Forum</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="1641" y="101" w="-1" h="-1" measuredW="212" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="1679" y="101" w="-1" h="-1" measuredW="174" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>Welcome%2C%20HarrytheGod%21</text>
+        <text>Welcome%2C%20TeveLee%21</text>
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="1807" y="137" w="-1" h="-1" measuredW="46" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
