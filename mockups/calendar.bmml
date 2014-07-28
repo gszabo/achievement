@@ -200,5 +200,16 @@
         <text>Sz%E9p%2C%20j%F3%20nagy%20napt%E1r%20havi%20bont%E1sban%2C%20itt%20olyat%20nem%20tudok%20csin%E1lni</text>
       </controlProperties>
     </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::StickyNote" x="1563" y="660" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>m%E1s%20bont%E1s%20is%20lehetne</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::VCurly" x="1674" y="273" w="180" h="629" measuredW="180" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>a%20napok%20esem%E9nyei%20k%FCl%F6n%20megn%E9zhet%u0151ek%3A%0Apop-up%20window</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

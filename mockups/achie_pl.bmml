@@ -106,5 +106,15 @@
         <text>Budapest%20Park%2C%20Soroks%E1ri%20%FAt%2060%2C%201095%20Budapest</text>
       </controlProperties>
     </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::StickyNote" x="358" y="170" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>pop-up%20window</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::StickyNote" x="848" y="790" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>comment%20section%3F</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

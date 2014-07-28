@@ -196,5 +196,15 @@
       </groupChildrenDescriptors>
     </control>
     <control controlID="22" controlTypeID="com.balsamiq.mockups::HRule" x="15" y="202" w="1870" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::StickyNote" x="1649" y="441" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>collapse/expand</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::StickyNote" x="928" y="189" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>t%F6rl%E9s/lez%E1r%E1s/szerkeszt%E9s/%FAj%20felv%E9tele</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
