@@ -1,0 +1,47 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1929" measuredH="1083" mockupW="1920" mockupH="1080">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="9" y="3" w="1920" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>6710886</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="919" y="326" w="150" h="-1" measuredW="77" measuredH="30" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>TeveLee</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="918" y="366" w="150" h="-1" measuredW="156" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>*******************</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="844" y="145" w="300" h="150" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16770457</color>
+        <size>20</size>
+        <text>Welcome%20to%20the%20Achievement%20Site%20of%20the%20well%20known%20Tailored%20Camel%20Studios</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="959" y="474" w="-1" h="-1" measuredW="71" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>mainpage%26bm%3Bmainpage.bmml%26bm%3Bmainpage.bmml%26bm%3Bmainpage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22950%2C471%2C1021%2C499%22%20href%3D%22mainpage.bmml%22%20alt%3D%22mainpage%22%20id%3D%224%22/%3E</map>
+        <size>20</size>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="917" y="411" w="-1" h="-1" measuredW="154" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <state>selected</state>
+        <text>Keep%20me%20logged%20in</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
