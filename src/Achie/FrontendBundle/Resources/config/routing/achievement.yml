@@ -1,0 +1,35 @@
+achie_frontend_achievement_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieFrontendBundle:Achievement:show" }
+
+achie_frontend_achievement_new:
+    pattern:  /new
+    defaults: { _controller: "AchieFrontendBundle:Achievement:new" }
+
+achie_frontend_achievement_create:
+    pattern:  /create
+    defaults: { _controller: "AchieFrontendBundle:Achievement:create" }
+    requirements: { _method: post }
+    
+achie_backend_achievement_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "AchieBackendBundle:Achievement:edit" }
+
+achie_backend_achievement_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "AchieBackendBundle:Achievement:update" }
+    requirements: { _method: post|put }
+
+achie_backend_achievement_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "AchieBackendBundle:Achievement:delete" }
+    requirements: { _method: post|delete }
+
+achie_frontend_achievement_achieve:
+    pattern:  /achieve
+    defaults: { _controller: "AchieFrontendBundle:Achievement:achieve" }
+
+achie_frontend_achievement_insert:
+    pattern:  /insert
+    defaults: { _controller: "AchieFrontendBundle:Achievement:insert" }
+    requirements: { _method: post }

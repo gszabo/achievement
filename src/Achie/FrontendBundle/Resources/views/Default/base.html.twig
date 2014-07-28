@@ -1,0 +1,25 @@
+{% extends '::base.html.twig' %}
+
+{% block title %}
+Achie sys
+{% endblock %}
+
+{% block body %}
+Menü:
+<ul>
+  <li><a href="{{ path('achie_frontend_homepage') }}">Főoldal</a></li>
+  <li><a href="{{ path('achie_frontend_achievement_level') }}">Achievementek</a></li>
+  <li><a href="{{ path('achie_frontend_user') }}">Felhasználók</a></li>
+  <li><a href="{{ path('achie_frontend_event') }}">Események</a></li>
+  <li><a href="{{ path('achie_frontend_achievement_new') }}">Új achie felvétele</a></li>
+  <li><a href="{{ path('achie_frontend_achievement_achieve') }}">Achie megszerzése</a></li>
+  <li><a href="todo">Legutóbb megszerzett achie-k</a></li>
+  <li><a href="todo">Legfrissebb achie-k</a></li>
+</ul>
+<br/>
+
+{% block content %}
+No content, sad panda :(
+{% endblock %}
+
+{% endblock %}

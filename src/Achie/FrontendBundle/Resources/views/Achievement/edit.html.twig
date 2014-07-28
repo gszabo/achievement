@@ -1,0 +1,8 @@
+{% extends 'AchieFrontendBundle:Default:base.html.twig' %}
+
+{% block content %}
+    <h1>Achie módosítása</h1>
+    
+    {% form_theme form 'form_table_layout.html.twig' %}
+    {{ form(form) }}
+{% endblock %}

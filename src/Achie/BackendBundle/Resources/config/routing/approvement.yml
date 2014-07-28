@@ -1,0 +1,30 @@
+achie_backend_approvement:
+    pattern:  /
+    defaults: { _controller: "AchieBackendBundle:Approvement:index" }
+
+achie_backend_approvement_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieBackendBundle:Approvement:show" }
+
+achie_backend_approvement_new:
+    pattern:  /new
+    defaults: { _controller: "AchieBackendBundle:Approvement:new" }
+
+achie_backend_approvement_create:
+    pattern:  /create
+    defaults: { _controller: "AchieBackendBundle:Approvement:create" }
+    requirements: { _method: post }
+
+achie_backend_approvement_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "AchieBackendBundle:Approvement:edit" }
+
+achie_backend_approvement_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "AchieBackendBundle:Approvement:update" }
+    requirements: { _method: post|put }
+
+achie_backend_approvement_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "AchieBackendBundle:Approvement:delete" }
+    requirements: { _method: post|delete }

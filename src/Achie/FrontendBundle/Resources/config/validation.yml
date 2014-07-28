@@ -1,0 +1,10 @@
+Achie\FrontendBundle\Entity\Achievement:
+    properties:
+        name:
+            - NotBlank: { message: "Csak kitölteném..." }
+        description:
+            - NotBlank: { message: "Csak így üresen? ..." }
+        level:
+            - NotBlank: { message: "Csak kitölteném..." }
+        category:
+            - NotBlank: { message: "Csak kitölteném..." }

@@ -1,0 +1,37 @@
+{% extends 'AchieFrontendBundle:Default:base.html.twig' %}
+
+{% block content %}
+    <h1>Achievement details</h1>
+
+    <table class="record_properties">
+        <tbody>
+            <tr>
+                <th>Achie</th>
+                <td>{{ entity.name }}</td>
+            </tr>
+            <tr>
+                <th>Leírás</th>
+                <td>{{ entity.description }}</td>
+            </tr>
+            <tr>
+                <th>Megszerezték:</th>
+                <td>
+                  {% if entity.achieves.count > 0 %}
+                  <table>
+                      <tbody>
+                        {% for achieve in entity.achieves %}
+                          <tr>
+                            <td><a href="{{ path('achie_frontend_user_show', { 'id': achieve.user.id }) }}">{{ achieve.user }}</a></td>
+                            <td>{{ achieve.reason }}</td>
+                          </tr>
+                        {% endfor %}
+                      </tbody>
+                   </table>
+                   {% else %}
+                      Még senki
+                   {% endif %}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}

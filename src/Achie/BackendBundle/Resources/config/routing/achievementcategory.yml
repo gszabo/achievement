@@ -1,0 +1,30 @@
+achie_backend_achievementcategory:
+    pattern:  /
+    defaults: { _controller: "AchieBackendBundle:AchievementCategory:index" }
+
+achie_backend_achievementcategory_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieBackendBundle:AchievementCategory:show" }
+
+achie_backend_achievementcategory_new:
+    pattern:  /new
+    defaults: { _controller: "AchieBackendBundle:AchievementCategory:new" }
+
+achie_backend_achievementcategory_create:
+    pattern:  /create
+    defaults: { _controller: "AchieBackendBundle:AchievementCategory:create" }
+    requirements: { _method: post }
+
+achie_backend_achievementcategory_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "AchieBackendBundle:AchievementCategory:edit" }
+
+achie_backend_achievementcategory_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "AchieBackendBundle:AchievementCategory:update" }
+    requirements: { _method: post|put }
+
+achie_backend_achievementcategory_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "AchieBackendBundle:AchievementCategory:delete" }
+    requirements: { _method: post|delete }

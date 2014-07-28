@@ -1,0 +1,57 @@
+{% extends 'AchieFrontendBundle:Default:base.html.twig' %}
+
+{% block content %}
+    <h1>User</h1>
+
+    <table class="record_properties">
+        <tbody>
+            <tr>
+                <th>Username</th>
+                <td>{{ entity.username }}</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td>{{ entity.email }}</td>
+            </tr>
+            <tr>
+                <th>Enabled</th>
+                <td>{{ entity.enabled }}</td>
+            </tr>
+            <tr>
+                <th>Lastlogin</th>
+                <td>{{ entity.lastLogin|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Roles</th>
+                <td>{% for role in entity.roles %}{{ role }} {% endfor %}</td>
+            </tr>
+            <tr>
+                <th>Achievementjei:</th>
+                <td>
+                  {% if entity.achieves.count > 0 %}
+                  <table>
+                      <tbody>
+                        {% for achieve in entity.achieves %}
+                          <tr>
+                            <td><a href="{{ path('achie_frontend_achievement_show', { 'id': achieve.achievement.id }) }}">{{ achieve.achievement.name }}</a></td>
+                            <td>{{ achieve.reason }}</td>
+                          </tr>
+                        {% endfor %}
+                      </tbody>
+                   </table>
+                   {% else %}
+                      Még senki
+                   {% endif %}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+        <ul class="record_actions">
+    <li>
+        <a href="{{ path('achie_frontend_user') }}">
+            Back to the list
+        </a>
+    </li>
+</ul>
+{% endblock %}

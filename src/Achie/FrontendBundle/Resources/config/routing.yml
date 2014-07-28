@@ -1,3 +1,27 @@
 achie_frontend_homepage:
-    pattern:  /hello/{name}
+    pattern:  /
     defaults: { _controller: AchieFrontendBundle:Default:index }
+
+AchieFrontendBundle_users:
+    resource: "@AchieFrontendBundle/Resources/config/routing/user.yml"
+    prefix:   /users
+    
+AchieFrontendBundle_events:
+    resource: "@AchieFrontendBundle/Resources/config/routing/event.yml"
+    prefix:   /events
+    
+AchieFrontendBundle_achievements:
+    resource: "@AchieFrontendBundle/Resources/config/routing/achievement.yml"
+    prefix:   /achievements
+
+AchieFrontendBundle_achievements_level:
+    resource: "@AchieFrontendBundle/Resources/config/routing/achievementlevel.yml"
+    prefix:   /achievements/by-level
+    
+AchieFrontendBundle_achievements_category:
+    resource: "@AchieFrontendBundle/Resources/config/routing/achievementcategory.yml"
+    prefix:   /achievements/by-category
+    
+AchieFrontendBundle_requests:
+    resource: "@AchieFrontendBundle/Resources/config/routing/request.yml"
+    prefix:   /requests

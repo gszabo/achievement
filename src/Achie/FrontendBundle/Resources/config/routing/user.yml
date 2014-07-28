@@ -1,0 +1,10 @@
+achie_frontend_user:
+    pattern:  /
+    defaults: { _controller: "AchieFrontendBundle:User:index" }
+
+achie_frontend_user_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieFrontendBundle:User:show" }
+
+
+

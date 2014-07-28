@@ -1,0 +1,10 @@
+achie_frontend_achievement_category:
+    pattern:  /
+    defaults: { _controller: "AchieFrontendBundle:AchievementCategory:index" }
+
+achie_frontend_achievement_category_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieFrontendBundle:AchievementCategory:show" }
+
+
+

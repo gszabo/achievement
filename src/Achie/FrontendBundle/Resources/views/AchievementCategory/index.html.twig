@@ -1,0 +1,38 @@
+{% extends 'AchieFrontendBundle:Default:base.html.twig' %}
+
+{% block content %}
+    <ul>
+      <li><b><a href="{{ path('achie_frontend_achievement_category') }}">by cat</a></b></li>
+      <li><a href="{{ path('achie_frontend_achievement_level') }}">by level</a></li>
+    </ul>
+
+    <h1>Achievements</h1>
+
+    <table class="records_list">
+        <tbody>
+        {% for entity in entities %}
+            <tr>
+                <td><a href="{{ path('achie_frontend_achievement_category_show', { 'id': entity.id }) }}">{{ entity.name }}</a></td>
+            </tr>
+            <tr>
+                <td>
+                    <table>
+                      <tbody>
+                        {% for achie in entity.achievements %}
+                          <tr>
+                            <td rowspan="2">pic</td>
+                            <td><a href="{{ path('achie_frontend_achievement_show', { 'id': achie.id }) }}">{{ achie.name }}</a></td>
+                          </tr>
+                          <tr>
+                            <td>{{ achie.description }}</td>
+                          </tr>
+                        {% endfor %}
+                      </tbody>
+                   </table>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    {% endblock %}

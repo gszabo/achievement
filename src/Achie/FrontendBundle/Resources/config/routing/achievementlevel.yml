@@ -1,0 +1,10 @@
+achie_frontend_achievement_level:
+    pattern:  /
+    defaults: { _controller: "AchieFrontendBundle:AchievementLevel:index" }
+
+achie_frontend_achievement_level_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieFrontendBundle:AchievementLevel:show" }
+
+
+

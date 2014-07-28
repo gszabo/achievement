@@ -1,0 +1,10 @@
+achie_frontend_request:
+    pattern:  /
+    defaults: { _controller: "AchieFrontendBundle:Request:index" }
+
+achie_frontend_request_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieFrontendBundle:Request:show" }
+
+
+

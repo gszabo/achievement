@@ -1,0 +1,30 @@
+achie_backend_event:
+    pattern:  /
+    defaults: { _controller: "AchieBackendBundle:Event:index" }
+
+achie_backend_event_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieBackendBundle:Event:show" }
+
+achie_backend_event_new:
+    pattern:  /new
+    defaults: { _controller: "AchieBackendBundle:Event:new" }
+
+achie_backend_event_create:
+    pattern:  /create
+    defaults: { _controller: "AchieBackendBundle:Event:create" }
+    requirements: { _method: post }
+
+achie_backend_event_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "AchieBackendBundle:Event:edit" }
+
+achie_backend_event_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "AchieBackendBundle:Event:update" }
+    requirements: { _method: post|put }
+
+achie_backend_event_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "AchieBackendBundle:Event:delete" }
+    requirements: { _method: post|delete }

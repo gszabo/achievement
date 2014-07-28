@@ -1,0 +1,30 @@
+achie_backend_user:
+    pattern:  /
+    defaults: { _controller: "AchieBackendBundle:User:index" }
+
+achie_backend_user_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieBackendBundle:User:show" }
+
+achie_backend_user_new:
+    pattern:  /new
+    defaults: { _controller: "AchieBackendBundle:User:new" }
+
+achie_backend_user_create:
+    pattern:  /create
+    defaults: { _controller: "AchieBackendBundle:User:create" }
+    requirements: { _method: post }
+
+achie_backend_user_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "AchieBackendBundle:User:edit" }
+
+achie_backend_user_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "AchieBackendBundle:User:update" }
+    requirements: { _method: post|put }
+
+achie_backend_user_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "AchieBackendBundle:User:delete" }
+    requirements: { _method: post|delete }

@@ -1,0 +1,30 @@
+achie_backend_request:
+    pattern:  /
+    defaults: { _controller: "AchieBackendBundle:Request:index" }
+
+achie_backend_request_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "AchieBackendBundle:Request:show" }
+
+achie_backend_request_new:
+    pattern:  /new
+    defaults: { _controller: "AchieBackendBundle:Request:new" }
+
+achie_backend_request_create:
+    pattern:  /create
+    defaults: { _controller: "AchieBackendBundle:Request:create" }
+    requirements: { _method: post }
+
+achie_backend_request_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "AchieBackendBundle:Request:edit" }
+
+achie_backend_request_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "AchieBackendBundle:Request:update" }
+    requirements: { _method: post|put }
+
+achie_backend_request_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "AchieBackendBundle:Request:delete" }
+    requirements: { _method: post|delete }
