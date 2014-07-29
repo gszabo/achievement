@@ -1,0 +1,119 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1920" measuredH="1080" mockupW="1920" mockupH="1080">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1920" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>2575891</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="72" y="99" w="131" h="32" measuredW="131" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>mainpage%26bm%3Bmainpage.bmml%26bm%3Bmainpage.bmml%26bm%3Bmainpage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2272%2C99%2C203%2C131%22%20href%3D%22mainpage.bmml%22%20alt%3D%22mainpage%22%20id%3D%221%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>YIMIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="35" y="4" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>FunDone</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1900" y="73" w="-1" h="977" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="512" y="311" w="900" h="400" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="527" y="367" w="188" h="184" measuredW="160" measuredH="160" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1899969_461643240628033_1718905397_n.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="738" y="331" w="-1" h="-1" measuredW="107" measuredH="36" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>My%20hero%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::StickyNote" x="906" y="131" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>pop-up%20window</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="918" y="655" w="-1" h="-1" measuredW="84" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>achie_unlocked%26bm%3Bachie_unlocked.bmml%26bm%3Bachie_unlocked.bmml%26bm%3Bachie_unlocked.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22918%2C655%2C1002%2C687%22%20href%3D%22achie_unlocked.bmml%22%20alt%3D%22achie_unlocked%22%20id%3D%2220%22/%3E</map>
+        <size>24</size>
+        <text>Done%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="527" y="326" w="-1" h="-1" measuredW="159" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Dear%20TeveLee%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="1327" y="658" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>achie_pl%26bm%3Bachie_pl.bmml%26bm%3Bachie_pl.bmml%26bm%3Bachie_pl.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221327%2C658%2C1391%2C685%22%20href%3D%22achie_pl.bmml%22%20alt%3D%22achie_pl%22%20id%3D%2227%22/%3E</map>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="__group__" x="738" y="457" w="193" h="71" measuredW="193" measuredH="71" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="193" measuredH="22" zOrder="0" locked="false" isInGroup="28">
+          <controlProperties>
+            <size>14</size>
+            <text>Did%20someone%20witness%20the%20act%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="15" y="22" w="-1" h="-1" measuredW="95" measuredH="22" zOrder="1" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>HarryTheGod</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RadioButton" x="15" y="49" w="-1" h="-1" measuredW="107" measuredH="22" zOrder="2" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>TheDarkSiderN</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="29" controlTypeID="__group__" x="738" y="383" w="248" h="68" measuredW="248" measuredH="68" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="248" measuredH="22" zOrder="0" locked="false" isInGroup="29">
+          <controlProperties>
+            <size>14</size>
+            <text>When%20did%20you%20unlock%20this%20achievement%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="15" y="22" w="200" h="46" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="29">
+          <controlProperties>
+            <text>25.07.2014.%20at%20a%20Punnany%20Massif%20concert</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="__group__" x="738" y="530" w="214" h="79" measuredW="214" measuredH="79" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="0" locked="false" isInGroup="32">
+          <controlProperties>
+            <size>14</size>
+            <text>Proof%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="14" y="21" w="200" h="58" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>I%27ve%20got%20her%20number%21</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
