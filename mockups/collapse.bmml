@@ -1,0 +1,168 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1920" measuredH="1080" mockupW="1920" mockupH="1080">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1920" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>40463</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1195" y="100" w="-1" h="-1" measuredW="283" measuredH="30" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Add%20New%20Achievement%2C%20Vote%20page</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="1493" y="101" w="-1" h="-1" measuredW="171" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>search%20achievement</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="1679" y="101" w="-1" h="-1" measuredW="174" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>20</size>
+        <text>Welcome%2C%20TeveLee%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="1807" y="137" w="-1" h="-1" measuredW="46" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="1793" y="165" w="-1" h="-1" measuredW="60" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>login%26bm%3Blogin.bmml%26bm%3Blogin.bmml%26bm%3Blogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221793%2C165%2C1853%2C187%22%20href%3D%22login.bmml%22%20alt%3D%22login%22%20id%3D%225%22/%3E</map>
+        <size>16</size>
+        <text>Log%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="72" y="99" w="131" h="32" measuredW="131" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>mainpage%26bm%3Bmainpage.bmml%26bm%3Bmainpage.bmml%26bm%3Bmainpage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2272%2C99%2C203%2C131%22%20href%3D%22mainpage.bmml%22%20alt%3D%22mainpage%22%20id%3D%226%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <icon>YIMIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="35" y="4" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <text>FunDone</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1900" y="73" w="-1" h="977" measuredW="16" measuredH="100" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="__group__" x="134" y="268" w="118" h="146" measuredW="118" measuredH="146" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="3" y="51" w="-1" h="-1" measuredW="115" measuredH="95" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <color>16777215</color>
+            <size>16</size>
+            <text>%5Bx%5D%20Category%0A%5B%20%5D%20Level%0A%5B%20%5D%20Completed%0A%5B%20%5D%20Incompleted</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="1" locked="false" isInGroup="8">
+          <controlProperties>
+            <color>16777215</color>
+            <size>24</size>
+            <text>Sorted%20by</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::LinkBar" x="238" y="102" w="-1" h="-1" measuredW="399" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <hrefs>achievements%26bm%3Bachievements.bmml%26bm%3Bachievements.bmml%26bm%3Bachievements.bmml%2Ccalendar%26bm%3Bcalendar.bmml%26bm%3Bcalendar.bmml%26bm%3Bcalendar.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22238%2C104%2C364%2C124%22%20href%3D%22achievements.bmml%22%20alt%3D%22achievements%22%20id%3D%2211%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22382%2C104%2C467%2C124%22%20href%3D%22calendar.bmml%22%20alt%3D%22calendar%22%20id%3D%2211%22/%3E%0A</map>
+        <size>20</size>
+        <text>Achievements%2C%20Calendar%2C%20Forum%20Romanum</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::HRule" x="15" y="202" w="1870" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="843" y="217" w="-1" h="-1" measuredW="303" measuredH="36" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Add%20New%20Achievement</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="134" y="522" w="1720" h="304" measuredW="1720" measuredH="304" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1720" h="304" measuredW="1720" measuredH="304" zOrder="0" locked="false" isInGroup="16">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="267" measuredH="28" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>16777215</color>
+                <size>20</size>
+                <text>The%20World%20knows%20me%20too%20well%21</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="43" w="1720" h="261" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0"/>
+            <control controlID="2" controlTypeID="__group__" x="20" y="58" w="209" h="70" measuredW="209" measuredH="70" zOrder="2" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="1" w="65" h="69" measuredW="230" measuredH="219" zOrder="0" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <src>./derpina.jpg</src>
+                    <text/>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="73" y="0" w="-1" h="-1" measuredW="79" measuredH="23" zOrder="1" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <size>20</size>
+                    <text>The%20Blue</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="73" y="22" w="-1" h="-1" measuredW="136" measuredH="21" zOrder="2" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <text>Get%20to%20know%20a%20nice%20girl%21</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="74" y="42" w="-1" h="-1" measuredW="34" measuredH="18" zOrder="3" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <size>10</size>
+                    <text>Level%202</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Switch" x="1638" y="0" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <onOffState>on</onOffState>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="134" y="429" w="1720" h="78" measuredW="1720" measuredH="78" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1720" h="78" measuredW="1720" measuredH="78" zOrder="0" locked="false" isInGroup="17">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="41" w="1720" h="37" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="1" y="0" w="-1" h="-1" measuredW="177" measuredH="28" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>16777215</color>
+                <size>20</size>
+                <text>Way%20to%20a%20Superstar</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Switch" x="1638" y="0" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <href>achievements%26bm%3Bachievements.bmml%26bm%3Bachievements.bmml%26bm%3Bachievements.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221772%2C429%2C1840%2C457%22%20href%3D%22achievements.bmml%22%20alt%3D%22achievements%22%20id%3D%221%22/%3E</map>
+            <onOffState>off</onOffState>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

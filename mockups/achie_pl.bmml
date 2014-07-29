@@ -3,7 +3,7 @@
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1920" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
-        <color>40463</color>
+        <color>2575891</color>
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
@@ -106,7 +106,7 @@
         <text>Budapest%20Park%2C%20Soroks%E1ri%20%FAt%2060%2C%201095%20Budapest</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::StickyNote" x="358" y="170" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::StickyNote" x="906" y="131" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>pop-up%20window</text>
       </controlProperties>
