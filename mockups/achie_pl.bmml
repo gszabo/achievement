@@ -111,9 +111,16 @@
         <text>pop-up%20window</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::StickyNote" x="848" y="790" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::ButtonBar" x="893" y="664" w="-1" h="-1" measuredW="134" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>comment%20section%3F</text>
+        <size>18</size>
+        <text>Edit%2C%20Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="1280" y="667" w="-1" h="-1" measuredW="111" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Comments</text>
       </controlProperties>
     </control>
   </controls>
